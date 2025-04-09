@@ -1,0 +1,145 @@
+RELATÓRIO DE EXECUÇÃO - RADIXSORT
+Data e hora: 08/04/2025 21:56:10
+
+TEMPOS DE EXECUÇÃO:
+----------------------------------------
+Arquivo: vetor_crescente_100000_10percento.txt
+Tempo de execução: 8,450 ms
+Arquivo de saída: ordenado_vetor_crescente_100000_10percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_100000_30percento.txt
+Tempo de execução: 3,553 ms
+Arquivo de saída: ordenado_vetor_crescente_100000_30percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_100000_50percento.txt
+Tempo de execução: 2,819 ms
+Arquivo de saída: ordenado_vetor_crescente_100000_50percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_10000_10percento.txt
+Tempo de execução: 0,256 ms
+Arquivo de saída: ordenado_vetor_crescente_10000_10percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_10000_30percento.txt
+Tempo de execução: 0,230 ms
+Arquivo de saída: ordenado_vetor_crescente_10000_30percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_10000_50percento.txt
+Tempo de execução: 0,258 ms
+Arquivo de saída: ordenado_vetor_crescente_10000_50percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_1000_10percento.txt
+Tempo de execução: 0,038 ms
+Arquivo de saída: ordenado_vetor_crescente_1000_10percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_1000_30percento.txt
+Tempo de execução: 0,030 ms
+Arquivo de saída: ordenado_vetor_crescente_1000_30percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_1000_50percento.txt
+Tempo de execução: 0,026 ms
+Arquivo de saída: ordenado_vetor_crescente_1000_50percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_100_10percento.txt
+Tempo de execução: 0,008 ms
+Arquivo de saída: ordenado_vetor_crescente_100_10percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_100_30percento.txt
+Tempo de execução: 0,007 ms
+Arquivo de saída: ordenado_vetor_crescente_100_30percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_100_50percento.txt
+Tempo de execução: 0,007 ms
+Arquivo de saída: ordenado_vetor_crescente_100_50percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_500000_10percento.txt
+Tempo de execução: 17,331 ms
+Arquivo de saída: ordenado_vetor_crescente_500000_10percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_500000_30percento.txt
+Tempo de execução: 18,698 ms
+Arquivo de saída: ordenado_vetor_crescente_500000_30percento.txt
+----------------------------------------
+Arquivo: vetor_crescente_500000_50percento.txt
+Tempo de execução: 31,502 ms
+Arquivo de saída: ordenado_vetor_crescente_500000_50percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_100000_10percento.txt
+Tempo de execução: 2,890 ms
+Arquivo de saída: ordenado_vetor_decrescente_100000_10percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_100000_30percento.txt
+Tempo de execução: 2,793 ms
+Arquivo de saída: ordenado_vetor_decrescente_100000_30percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_100000_50percento.txt
+Tempo de execução: 2,755 ms
+Arquivo de saída: ordenado_vetor_decrescente_100000_50percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_10000_10percento.txt
+Tempo de execução: 0,233 ms
+Arquivo de saída: ordenado_vetor_decrescente_10000_10percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_10000_30percento.txt
+Tempo de execução: 0,226 ms
+Arquivo de saída: ordenado_vetor_decrescente_10000_30percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_10000_50percento.txt
+Tempo de execução: 0,224 ms
+Arquivo de saída: ordenado_vetor_decrescente_10000_50percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_1000_10percento.txt
+Tempo de execução: 0,023 ms
+Arquivo de saída: ordenado_vetor_decrescente_1000_10percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_1000_30percento.txt
+Tempo de execução: 0,031 ms
+Arquivo de saída: ordenado_vetor_decrescente_1000_30percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_1000_50percento.txt
+Tempo de execução: 0,030 ms
+Arquivo de saída: ordenado_vetor_decrescente_1000_50percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_100_10percento.txt
+Tempo de execução: 0,009 ms
+Arquivo de saída: ordenado_vetor_decrescente_100_10percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_100_30percento.txt
+Tempo de execução: 0,007 ms
+Arquivo de saída: ordenado_vetor_decrescente_100_30percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_100_50percento.txt
+Tempo de execução: 0,008 ms
+Arquivo de saída: ordenado_vetor_decrescente_100_50percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_500000_10percento.txt
+Tempo de execução: 17,088 ms
+Arquivo de saída: ordenado_vetor_decrescente_500000_10percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_500000_30percento.txt
+Tempo de execução: 17,189 ms
+Arquivo de saída: ordenado_vetor_decrescente_500000_30percento.txt
+----------------------------------------
+Arquivo: vetor_decrescente_500000_50percento.txt
+Tempo de execução: 16,943 ms
+Arquivo de saída: ordenado_vetor_decrescente_500000_50percento.txt
+----------------------------------------
+Arquivo: vetor_desordenado_100.txt
+Tempo de execução: 0,023 ms
+Arquivo de saída: ordenado_vetor_desordenado_100.txt
+----------------------------------------
+Arquivo: vetor_desordenado_1000.txt
+Tempo de execução: 0,021 ms
+Arquivo de saída: ordenado_vetor_desordenado_1000.txt
+----------------------------------------
+Arquivo: vetor_desordenado_10000.txt
+Tempo de execução: 0,201 ms
+Arquivo de saída: ordenado_vetor_desordenado_10000.txt
+----------------------------------------
+Arquivo: vetor_desordenado_100000.txt
+Tempo de execução: 2,429 ms
+Arquivo de saída: ordenado_vetor_desordenado_100000.txt
+----------------------------------------
+Arquivo: vetor_desordenado_500000.txt
+Tempo de execução: 14,294 ms
+Arquivo de saída: ordenado_vetor_desordenado_500000.txt
+----------------------------------------
